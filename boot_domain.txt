@@ -1,1 +1,150 @@
+BOOT_DOMAIN — Triple Point Vacuum (TPV)
+1. Status and Intent
 
+The Triple Point Vacuum (TPV) is a toy ontology of physics, not an established theory.
+
+Its purpose is exploratory and generative, not confirmatory.
+TPV is being developed to test whether a small number of structural assumptions about “vacuum” can reproduce, reinterpret, or coherently reframe:
+
+wave–particle duality
+
+quantization
+
+mass–energy relations
+
+relativistic effects
+
+nonlocal quantum correlations
+
+TPV should be treated as discardable at every layer.
+
+2. Core Ontological Commitment (Minimal)
+
+TPV assumes the following, and nothing more unless explicitly derived:
+
+The vacuum is not empty
+It is a continuous physical substrate with state.
+
+The substrate supports deformation
+Deformations propagate as waves.
+
+Stable excitations exist
+Localized, persistent deformation patterns correspond to what are called “particles.”
+
+No assumptions are made about:
+
+standard quantum fields
+
+spacetime as fundamental
+
+Lorentz invariance as ontologically primary
+
+Those may emerge, fail, or require reinterpretation.
+
+3. Triple Point Concept (Informal)
+
+“Triple point” refers to a regime where the substrate simultaneously exhibits:
+
+elastic / solid-like behavior
+
+fluid-like flow
+
+radiative / wave-like propagation
+
+These regimes are not separate phases but coexisting modes of the same substrate, with dominance determined by scale, energy density, and boundary conditions.
+
+4. Waves and Excitations
+
+TPV distinguishes (provisionally) between:
+
+longitudinal compressive modes
+
+transverse shear modes
+
+compound / hybrid modes
+
+Observed particles may correspond to:
+
+standing wave knots
+
+topologically stabilized defects
+
+resonance-locked excitation bundles
+
+This classification is tentative and subject to revision.
+
+5. Time, Causality, and Reference Frames
+
+TPV does not assume time is fundamental.
+
+Instead:
+
+time is treated as an accounting parameter for change
+
+causality is assumed to be globally consistent in a preferred substrate frame
+
+relativistic causal paradoxes are interpreted as projection artifacts of moving frames
+
+Superluminal phenomenology is not ruled out a priori, but no claims of signaling are asserted.
+
+6. Quantum Phenomena (Provisional Interpretation)
+
+In TPV:
+
+superposition may correspond to unresolved substrate configurations
+
+entanglement may reflect shared substrate modes or boundary conditions
+
+measurement corresponds to energy exchange that forces mode resolution
+
+These are interpretive placeholders, not claims of explanation.
+
+7. Constraints and Discipline
+
+TPV must obey the following discipline:
+
+No appeal to “it just works”
+
+No hidden extra dimensions without necessity
+
+All added structure must reduce, not increase, assumptions
+
+Contradictions must be logged, not patched
+
+8. Open Questions (Non-exhaustive)
+
+What stabilizes particle-like excitations?
+
+How does mass arise in substrate terms?
+
+Can relativistic invariance emerge statistically?
+
+What observable signatures would distinguish TPV from standard models?
+
+9. Relationship to Synthesis
+
+TPV is being used as a stress test for Synthesis.
+
+The goal is not to prove TPV correct, but to see whether:
+
+conceptual drift can be controlled
+
+assumptions can be tracked
+
+uncertainty can be preserved rather than erased
+
+10. Explicit Non-Claims
+
+TPV does not currently claim:
+
+experimental validation
+
+predictive power
+
+compatibility with all known physics
+
+ontological truth
+
+It claims only internal coherence as a toy framework under construction.
+
+End BOOT_DOMAIN — TPV

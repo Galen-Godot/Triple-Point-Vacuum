@@ -1,1 +1,9 @@
 currently testing
+
+- The Triple Point Vacuum (TPV) is a toy ontology of physics, developed to explore and test structural assumptions about vacuum.
+- TPV posits that the vacuum is not empty but a continuous physical substrate with state, supporting deformation that propagates as waves.
+- It distinguishes between longitudinal, transverse, and hybrid wave modes, with particles corresponding to localized deformation patterns.
+- Time is treated as a parameter for change, with causality assumed globally consistent in a preferred substrate frame.
+- The framework interprets superposition, entanglement, and measurement as aspects of substrate configurations and energy exchange.
+- Open questions include stability of particle-like excitations, mass emergence, and observable signatures of TPV relative to standard models.
+- The framework is in a state of active exploration and remains open to change and refinement without definitive claims or validations.

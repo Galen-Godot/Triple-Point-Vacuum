@@ -1,9 +1,19 @@
-currently testing
+Triple Point Vacuum (TPV) is a toy ontology of physics designed to explore foundational concepts related to the vacuum. It assumes the vacuum is a continuous physical substrate with state, supporting deformations that propagate as waves. The substrate exhibits solid, fluid, and wave-like behaviors concurrently, known as the "triple point." 
 
-- The Triple Point Vacuum (TPV) is a toy ontology of physics, developed to explore and test structural assumptions about vacuum.
-- TPV posits that the vacuum is not empty but a continuous physical substrate with state, supporting deformation that propagates as waves.
-- It distinguishes between longitudinal, transverse, and hybrid wave modes, with particles corresponding to localized deformation patterns.
-- Time is treated as a parameter for change, with causality assumed globally consistent in a preferred substrate frame.
-- The framework interprets superposition, entanglement, and measurement as aspects of substrate configurations and energy exchange.
-- Open questions include stability of particle-like excitations, mass emergence, and observable signatures of TPV relative to standard models.
-- The framework is in a state of active exploration and remains open to change and refinement without definitive claims or validations.
+It distinguishes between longitudinal, transverse, and hybrid wave modes, suggesting particles may correspond to stable deformations in this substrate. Time is treated as a parameter for accounting change, and causality is maintained in a preferred substrate frame. Quantum phenomena are interpreted through unresolved configurations, shared modes, and measurement as an energy exchange.
+
+Core questions remain about particle stabilization, the emergence of mass, and observable signatures that might differentiate TPV from standard physics models. The framework's validity is not claimed, emphasizing internal coherence as it evolves.
+
+Assumptions include:
+- The vacuum is a continuous substrate with states, not empty.
+- Deformations are waves, and stable excitations correspond to "particles."
+- Time is not fundamental, and causality is substrate-based.
+- Superluminal phenomena aren’t ruled out, though no signaling claims are made.
+
+Unresolved questions include:
+- The nature of particle stabilization.
+- How mass arises from the substrate. 
+- Statistical emergence of relativistic invariance.
+- Observable distinctions between TPV and established models. 
+
+Current state is exploratory, maintaining flexibility and room for reinterpretation. It serves as a testbed for tracking assumptions, preserving uncertainty, and addressing potential conceptual drift.
